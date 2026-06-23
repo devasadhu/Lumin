@@ -1,7 +1,7 @@
 # Lumin
-# Kaiku Intelligence API
+# Production Intelligence API
 
-Manufacturing operations intelligence for Ginolis Kaiku — real-time IoT production traceability, instant insights from your factory floor. No BI team, no SQL knowledge required.
+Manufacturing operations intelligence for real-time IoT production traceability, instant insights from your factory floor. No BI team, no SQL knowledge required.
 
 ## Architecture
 
@@ -116,7 +116,7 @@ pytest tests/
 ## Project structure
 
 ```
-kaiku/
+lumin/
 ├── backend/
 │   ├── __init__.py
 │   ├── main.py          # FastAPI app + all endpoints
